@@ -5,6 +5,7 @@ const messageParts = {
         , 'I believe in the immeasurable power of love;'
         , 'Prayer is not an old woman\'s idle amusemen.'
         , 'Can a dream be wrong?'
+        , 'Nothing happens while you live.'
     ],
     'part2': [
         'Words are the source of misunderstandings.'
@@ -12,6 +13,7 @@ const messageParts = {
         , 'that true love can endure any circumstance and reach across any distance.'
         , 'Properly understood and applied, it is the most potent instrument of action.'
         , 'Aren\'t dreams God\'s way of telling you things?'
+        , 'The scenery changes, people come in and go out, that\'s all.'
     ],
     'author': [
         'Antoine de Saint-Exupéry'
@@ -19,6 +21,7 @@ const messageParts = {
         , 'Steve Maraboli'
         , 'Mahatma Gandhi'
         , 'Ellen Hopkins'
+        , 'Jean-Paul Sartre'
     ]
 }
 
